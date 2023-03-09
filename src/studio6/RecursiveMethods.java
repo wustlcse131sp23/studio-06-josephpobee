@@ -40,12 +40,15 @@ public class RecursiveMethods {
 		{ return q;
 				
 		}
-		{ 
-
-		// FIXME compute the gcd of p and q using recursion
-		return 0;
-
+		
+		else {
+			return 0;
+		}
 	}
+		// FIXME compute the gcd of p and q using recursion
+		//return 0;
+
+	
 	
 
 
